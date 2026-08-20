@@ -1,2 +1,4 @@
 Hello Gitlens
 This is my first Gitlens activity.
+I am learning git and Gitlens
+
