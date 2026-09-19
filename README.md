@@ -2,6 +2,10 @@
 
 This project is a small C program used to practice Git, GitLens, and Live Share collaboration.
 
+## Activity 1 - Development Environment Setup
+
+I installed Visual Studio Code with the C/C++ extension and configured MinGW-w64 GCC as the C compiler. I verified the installation with `gcc --version`, compiled `hello.c`, and confirmed that the program ran successfully.
+
 ## Build and run
 
 ```text
