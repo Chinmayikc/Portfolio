@@ -17,8 +17,8 @@ The program prints a basic Hello World message and a personalized greeting from 
 
 ## Collaboration Log
 
-- Pairing partner: Chaitali
-- GitHub username: `chaitali` (the local activity files identify the partner only by this name; verify the handle before publishing)
+- Pairing partner: kadalagichaitali9-ux
+- GitHub username: `kadalagichaitali9-ux`
 - Built together: added `greet(const char *name)` and called it from `main()` with `greet("Ada")`.
 - What I learned: GitLens blame connects each line to the commit and author that last changed it, while Live Share lets both partners edit the same workspace in real time.
 
