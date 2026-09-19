@@ -1,0 +1,8 @@
+# Compiled C/C++ executables
+*.exe
+
+# Local VS Code settings
+.vscode/
+
+# Scratch file from the activity
+sample1.txt
